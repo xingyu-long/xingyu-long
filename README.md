@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I am Xingyu Long 👋
 
+- ⏰  Master's student in Computer Science at Virginia Tech
+- 🙌 Ex-Google Software Engineer Intern 
+- 👨‍💻  Incoming Software Engineer II @ VMware
+- 📖 Love reading
 <!--
 **xingyu-long/xingyu-long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
